@@ -1,6 +1,8 @@
 from kivy.app import App
 from kivy.uix.widget import Widget
 
+''' from: https://kivy.org/doc/stable/tutorials/pong.html
+'''
 
 class PongGame(Widget):
     pass
