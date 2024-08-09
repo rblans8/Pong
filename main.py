@@ -5,7 +5,6 @@ from kivy.properties import (
 )
 from kivy.vector import Vector
 from kivy.clock import Clock
-from random import randint
 
 ''' from: https://kivy.org/doc/stable/tutorials/pong.html
 '''
